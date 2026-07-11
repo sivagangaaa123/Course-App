@@ -10,7 +10,8 @@ function App() {
 
   return (
     <>
-      </InsertCourse/>
+      <InsertCourse/>
+      <ViewAllCourses/>
     </>
   )
 }
